@@ -69,6 +69,3 @@ snake_game/
 - Avoid hitting the walls or running into your own tail.
 - When you collide, the snake resets but your high score is saved!
 
-## Author
-
-**Dharini** — [GitHub](https://github.com/dharini645)
